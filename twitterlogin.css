@@ -42,12 +42,25 @@ margin-left: 150px;
    border-radius: 2px;
    box-sizing: content-box;
    padding: 2px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: larger;
+   font-weight: 50px;
+   border-radius: 15px;
 }
 .signin{
    width: 300px; 
    height: 25px;
    margin: 5px;
+   border-radius: 15px;
+   border-color: black;
 }
 .log{
     margin-left: 80px;
+    width: 100px;
+    height: 70px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 5px;
+    border-radius: 15px;
 }
