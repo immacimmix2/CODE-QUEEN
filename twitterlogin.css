@@ -1,0 +1,53 @@
+*{
+margin: 0;
+padding: 0;
+}
+.mother {
+margin: auto;
+width: 600px;
+height: 400px;
+background-color: rgb(118, 118, 167);
+}
+.blue {
+    background-color: rgb(0, 119, 255);
+    width: 250px;
+    height:400px ;
+    float: left;
+}
+.logo {
+width: 85px;
+height: 90px;
+margin-top: 150px;
+margin-left: 80px;
+
+}
+.white{
+background-color: rgb(247, 240, 240);
+width: 350px;
+height: 400px;
+float:right ;
+
+}
+.Xlogo {
+width: 30px;
+height: 30px;
+background-color: rgb(247, 240, 240);
+margin-left: 150px;
+}
+.fat{
+
+   width: 300px;
+   height: 30px; 
+   margin: 5px;
+   border-radius: 2px;
+   box-sizing: content-box;
+   padding: 2px;
+}
+.signin{
+   width: 300px; 
+   height: 25px;
+   margin: 5px;
+}
+.log{
+    margin-left: 80px;
+}

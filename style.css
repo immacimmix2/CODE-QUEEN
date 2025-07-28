@@ -1,0 +1,26 @@
+h1{
+color: blue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+body{
+background-color: aquamarine;
+padding: 4px;
+margin: 2px;
+text-align: left;
+
+}
+.mainheading{ 
+    color: blueviolet;
+    
+}
+.firstparagraph {
+    color: aquamarine;
+    background-color: azure;
+}
+#this{
+color: tomato;
+background-color: yellow;
+
+}
